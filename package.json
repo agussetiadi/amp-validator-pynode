@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "amp": "amphtml-validator"
+  },
+  "dependencies": {
+    "amphtml-validator": "^1.0.35",
+    "he": "^1.2.0"
+  }
+}
